@@ -7,3 +7,8 @@ docker run --tty --rm \
     kafkacat -b broker:9092 -C -o beginning -q \
     -t customers-with-addresses
 ```
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Action beats perfection.
+🦄
+<!-- INSPIRATIONAL_QUOTE_END -->
