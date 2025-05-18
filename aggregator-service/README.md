@@ -8,7 +8,4 @@ docker run --tty --rm \
     -t customers-with-addresses
 ```
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🦖
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nStay curious. Keep learning. Keep growing.\n🦖\n<!-- INSPIRATIONAL_QUOTE_END -->
