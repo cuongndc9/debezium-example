@@ -91,6 +91,6 @@ https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloof
 https://github.com/4pet-social
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🐯
+Action beats perfection.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
