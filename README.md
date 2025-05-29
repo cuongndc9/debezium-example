@@ -91,6 +91,6 @@ https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloof
 https://github.com/4pet-social
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🧑‍💻,
+Discomfort is the currency of your dreams.
+🐶
 <!-- INSPIRATIONAL_QUOTE_END -->
