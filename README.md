@@ -91,5 +91,5 @@ https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloof
 https://github.com/4pet-social
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
+> "Innovation distinguishes between a leader and a follower." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
