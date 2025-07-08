@@ -91,5 +91,5 @@ https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloof
 https://github.com/4pet-social
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
+> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->
